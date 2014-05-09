@@ -1,0 +1,14 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdftex 2013.2.9)  7 MAY 2014 19:16
+entering extended mode
+**C:/Users/David/Documents/News*Sentiment*IW*F13/IWformat/jpaper.cls
+("C:/Users/David/Documents/News Sentiment IW F13/IWformat/jpaper.cls"
+! Undefined control sequence.
+l.1 \NeedsTeXFormat
+                   {LaTeX2e}
+? 
+! Emergency stop.
+l.1 \NeedsTeXFormat
+                   {LaTeX2e}
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
